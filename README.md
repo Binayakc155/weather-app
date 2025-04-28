@@ -1,9 +1,8 @@
 # WEATHER-app using NEXT.JS
 
 #### Features
-- ADD task
-- EDIT task
-- REMOVE task
+- A weather application built with Next.js. This app allows users to search for cities and view the current weather conditions
+   like temperature, humidity, and more in a clean and user-friendly interface.
 - Clean UI
 - Easy to use
 
